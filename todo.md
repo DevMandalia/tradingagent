@@ -1,0 +1,11 @@
+- [x] Research Binance API documentation for trading, including endpoints for market data, account information, and order placement.
+- [x] Identify relevant technical indicators (MACD, RSI, Stoch, ADX) and how to calculate them using API data.
+- [x] Research methods for candlestick pattern recognition and identifying support/resistance levels.
+- [x] Investigate how to access funding rates, order book data, and MVRV-Z score via Binance API or other sources.
+- [x] Design the overall architecture of the trading bot.
+- [x] Implement functions for each technical indicator.
+- [x] Implement logic for candlestick analysis and support/resistance levels.
+- [x] Integrate data sources for funding rates, order book, and MVRV-Z score.
+- [x] Develop the core trading logic for entry and exit signals.
+- [x] Implement backtesting functionality to evaluate the bot's performance.
+- [x] Prepare a report and the bot's code for the user.
