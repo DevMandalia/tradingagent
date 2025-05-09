@@ -1,4 +1,4 @@
-# Bitcoin Trading Bot - Final Report
+# Bitcoin Trading Bot
 
 ## 1. Introduction
 
