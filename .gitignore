@@ -4,6 +4,23 @@ __pycache__/
 *$py.class
 *.so
 .Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
 .env
 .venv
 env/
@@ -11,6 +28,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -20,9 +43,11 @@ venv.bak/
 .vscode/
 
 # Data files
-*.csv
-*.xlsx
-*.xls
+# Ignore large data files
+btcusd_1-min_data.csv
+bitcoin_data_1min.csv
+bitcoin_data_15min.csv
+bitcoin_data.csv
 
 # Generated plots and results
 data/plots/
